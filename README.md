@@ -1,4 +1,4 @@
-# DevAlpha
+# DevAlphak
 
 [![Build Status](https://travis-ci.org/devalpha-io/devalpha-node.svg?branch=master)](https://travis-ci.org/devalpha-io/devalpha-node)
 [![Dependencies](https://david-dm.org/devalpha-io/devalpha-node/status.svg)](https://david-dm.org/devalpha-io/devalpha-node)
